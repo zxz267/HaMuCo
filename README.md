@@ -48,7 +48,7 @@
 
 
 
-## :desktop_computer: Data Preparation
+## :file_folder: Data Preparation
 ### 1. Download the [HanCo](https://lmb.informatik.uni-freiburg.de/resources/datasets/HanCo.en.html) dataset from the official website.
   - https://lmb.informatik.uni-freiburg.de/data/HanCo/HanCo_rgb.zip
   - https://lmb.informatik.uni-freiburg.de/data/HanCo/HanCo_xyz.zip
