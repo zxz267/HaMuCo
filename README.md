@@ -42,7 +42,7 @@
 
 ## :mega: Updates
 
-[07/2023] HaMuCo is accepted to ICCV 2023:partying_face:!
+[07/2023] HaMuCo is accepted to ICCV 2023 :partying_face:!
 
 [01/2023] Training and evaluation codes on HanCo are released.
 
